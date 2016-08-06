@@ -1,0 +1,32 @@
+_repo: Great-Possessions_10593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grayson, David
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '929'
+    url: http://www.gutenberg.org/2009/agents/929
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/b#a37309
+    - http://en.wikipedia.org/wiki/Ray_Stannard_Baker
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Massachusetts -- Amherst Region'
+- !lcsh 'Amherst Region (Mass.) -- Social life and customs'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Massachusetts -- Intellectual life -- 20th century'
+- !lcsh 'Grayson, David, 1870-1946 -- Homes and haunts -- Massachusetts -- Amherst
+  Region'
+- !lcc 'PS'
+- GITenberg
+title: Great Possessions
+url: http://www.gutenberg.org/ebooks/10593
