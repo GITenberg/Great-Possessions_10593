@@ -1,5 +1,8 @@
 _repo: Great-Possessions_10593
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grayson, David
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/b#a37309
     - http://en.wikipedia.org/wiki/Ray_Stannard_Baker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10593#Great-Possessions
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
